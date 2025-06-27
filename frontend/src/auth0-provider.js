@@ -1,7 +1,7 @@
 import { Auth0Provider } from "@auth0/auth0-react";
 
-const domain = "YOUR_DOMAIN.auth0.com";
-const clientId = "YOUR_CLIENT_ID";
+const domain = "dev-be67vnz15ljwc5ll.us.auth0.com";
+const clientId = "j4tpnnZ9C3zbkGWM6vrg4X9ajaMZKsSI";
 const audience = "https://api.example.com";
 
 const Auth0ProviderWithHistory = ({ children }) => {
